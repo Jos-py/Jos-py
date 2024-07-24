@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning securityA+, Network+, Security+
 - 📫 How to reach me Joslyn.P@proton.me
 - certs (
-
+OS (Ubuntu linux)
 
 
 <!---
